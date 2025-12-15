@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\tecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\tecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\reparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\reparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\menuprincipal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\menuprincipal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\asignaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\asignaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\asignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\asignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capalogica\\cl_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capalogica\\cl_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\app_code\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\app_code\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\menuprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{252F439D-B679-48EE-81F7-D342A3CE5A88}|proyecto_2\\proyecto_2.csproj|solutionrelative:proyecto_2\\menuprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tecnicos.aspx.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Tecnicos.aspx.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\Tecnicos.aspx.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Tecnicos.aspx.cs",
+              "RelativeToolTip": "proyecto_2\\Tecnicos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:03:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Usuarios.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\Usuarios.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Usuarios.aspx",
+              "RelativeToolTip": "proyecto_2\\Usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:03:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tecnicos.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Tecnicos.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\Tecnicos.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Tecnicos.aspx",
+              "RelativeToolTip": "proyecto_2\\Tecnicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:03:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reportes.aspx.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Reportes.aspx.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\Reportes.aspx.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Reportes.aspx.cs",
+              "RelativeToolTip": "proyecto_2\\Reportes.aspx.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAcwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reparaciones.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Reparaciones.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\Reparaciones.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Reparaciones.aspx",
+              "RelativeToolTip": "proyecto_2\\Reparaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:01:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Login.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\Login.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Login.aspx",
+              "RelativeToolTip": "proyecto_2\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:01:26.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asignaciones.aspx.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Asignaciones.aspx.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\Asignaciones.aspx.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Asignaciones.aspx.cs",
+              "RelativeToolTip": "proyecto_2\\Asignaciones.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:19.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asignaciones.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Asignaciones.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\Asignaciones.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Asignaciones.aspx",
+              "RelativeToolTip": "proyecto_2\\Asignaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:01:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CL_Tecnico.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Tecnico.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Tecnico.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Tecnico.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Tecnico.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CL_Reportes.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Reportes.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Reportes.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Reportes.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Reportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CL_Reparacion.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Reparacion.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Reparacion.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Reparacion.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Reparacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CL_Equipo.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Equipo.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Equipo.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Equipo.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Equipo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:03.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CL_Asignacion.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Asignacion.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Asignacion.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Asignacion.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:02.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaDatos\\Conexion.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:01:00.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Web.config",
+              "RelativeDocumentMoniker": "proyecto_2\\Web.config",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Web.config",
+              "RelativeToolTip": "proyecto_2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-15T23:44:38.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:44:11.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CL_Usuario.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Usuario.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\App_Code\\CapaLogica\\CL_Usuario.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\App_Code\\CapaLogica\\CL_Usuario.cs",
+              "RelativeToolTip": "proyecto_2\\App_Code\\CapaLogica\\CL_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:43:59.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\Login.aspx.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\Login.aspx.cs",
+              "RelativeToolTip": "proyecto_2\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:43:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPrincipal.aspx.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\MenuPrincipal.aspx.cs",
+              "RelativeDocumentMoniker": "proyecto_2\\MenuPrincipal.aspx.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\MenuPrincipal.aspx.cs",
+              "RelativeToolTip": "proyecto_2\\MenuPrincipal.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:04:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuPrincipal.aspx",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\MenuPrincipal.aspx",
+              "RelativeDocumentMoniker": "proyecto_2\\MenuPrincipal.aspx",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\proyecto_2\\proyecto_2\\proyecto_2\\MenuPrincipal.aspx",
+              "RelativeToolTip": "proyecto_2\\MenuPrincipal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-15T20:03:23.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
